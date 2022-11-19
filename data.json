@@ -1,0 +1,39 @@
+{
+    "geography": [
+        {
+            "id": 1,
+            "question": "What is the biggest city of TOGO ?",
+            "proposals": [
+                "Kara",
+                "Lome",
+                "Sokode",
+                "Kpalime"
+            ],
+            "answer": "Lome"
+        },
+        {
+            "id": 2,
+            "question": "what is the capital of Brazil ?",
+            "proposals": [
+                "Rio de Janeiro",
+                "Sao Paulo",
+                "Salvador",
+                "Brasilia"
+            ],
+            "answer": "Brasilia"
+        }
+    ],
+    "sports": [
+        {
+            "id": 1,
+            "question": "Which football player have won the most Ballon d'Or ?",
+            "proposals": [
+                "Christiano Ronaldo",
+                "Pelé",
+                "Lionnel Messi",
+                "Diego Maradona"
+            ],
+            "answer": "Lionnel Messi"
+        }
+    ]
+}
